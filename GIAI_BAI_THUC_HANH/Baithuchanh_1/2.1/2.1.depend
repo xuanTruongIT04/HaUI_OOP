@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632974542 source:e:\codeblock\coban\baithuchanh\2.1\main.cpp
+	<iostream>
+	<iomanip>
+
+1632975692 source:e:\codeblock\coban\baithuchanh_1\2.1\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
